@@ -1,0 +1,22 @@
+.compare {
+  position: relative;
+  width: 600px;
+  max-width: 100%;
+}
+
+.compare img {
+  width: 100%;
+}
+
+.before-wrap {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  overflow: hidden;
+}
+
+#slider {
+  width: 100%;
+  margin-top: 6px;
+}
